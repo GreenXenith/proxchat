@@ -1,0 +1,11 @@
+#    Distance at which chat from nearby players is "heard".
+proxchat.distance (Chat hear distance) int 32
+
+#    Show the player distance in chat messages.
+proxchat.show_distance (Player distance in chat) bool false
+
+#    Privileges required to use /global (comma-separated list, empty for anyone).
+proxchat.global_privs (/global required privs) string shout
+
+#    Whether or not players may configure their own hear distance.
+proxchat.player_config (Player distance configuration) bool false
