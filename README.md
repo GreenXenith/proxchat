@@ -12,3 +12,5 @@ Only see chat from nearby players.
 ### Commands:
 * `/global <message>`: Send a message to everyone.
 * `/chat_distance [distance]`: Get or set your personal hearing distance (number > 0).
+
+If you want to set the default hear distance during runtime, use `/set -n proxchat.distance 69` (with your own number).  
